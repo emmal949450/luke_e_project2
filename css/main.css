@@ -15,14 +15,17 @@
 
 #introTitle {
 	text-align: center;
+	text-decoration: underline;
 	padding: 10px;
 	font-size: 40px;
 	font-weight: bold;
+	color: #063951;
 	font-family: 'Shippori Mincho B1', Arial, sans-serif;
 }
 
 #introText {
 	text-align: center;
+	color: #063951;
 	padding: 5px;
 	font-size: 18px;
 	line-height: 23px;
@@ -77,6 +80,7 @@
  #bodyTitle2 {
  	padding-bottom: 10px;
  	font-size: 25px;
+ 	letter-spacing: 1px;
  	font-weight: bold;
  	text-decoration: underline;
  	color: #4f2704;
@@ -91,9 +95,46 @@
  	padding-bottom: 8px;
  }
 
-
-
-
-
-
 /*Body 2 End*/
+
+/*---------------------------------------------Body 2---------------------------------------------*/
+
+ #bodyTitle3 {
+ 	padding-bottom: 15px;
+ 	font-size: 25px;
+ 	font-weight: bold;
+ 	text-decoration: underline;
+ 	color: #86091e;
+ 	font-family: 'Syne Mono', Arial, sans-serif;
+ }
+
+ .paraText3 {
+ 	font-size: 18px;
+ 	color: #86091e;
+ 	line-height: 20px;
+ 	font-family: 'Syne Mono', Arial, sans-serif;
+ 	padding-bottom: 15px;
+ }
+
+ /*Body 3 End*/
+
+/*---------------------------------------------Conclusion---------------------------------------------*/
+
+#conclusionTitle {
+	padding-bottom: 18px;
+ 	font-size: 25px;
+ 	font-weight: bold;
+ 	text-decoration: underline;
+ 	color: #4d2768;
+ 	font-family: 'Courgette', cursive;
+}
+
+ .paraText4 {
+ 	font-size: 20px;
+ 	color: #4d2768;
+ 	line-height: 28px;
+ 	font-family: 'Courgette', cursive;
+ 	padding-bottom: 15px;
+ }
+
+/*Conclusion End*/
